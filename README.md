@@ -8,5 +8,6 @@
 | --- | --- | --- | --- |
 | [ЛР 1](lab1/) | Решение задач линейного программирования | 7 | [Отчёт](lab1/report.pdf), [Python](lab1/solver.py), [Excel](lab1/solver.xlsx) |
 | [ЛР 2](lab2/) | Метод ломаных Пиявского | — | [Отчёт](lab2/report.pdf), [Python](lab2/solver.py), [График](lab2/solver-result.png), [Итерации](lab2/iterations.csv), [Результаты](lab2/result.json) |
+| [ЛР 3](lab3/) | Метод множителей Лагранжа | 3 | [Отчёт](lab3/report.pdf), [Python](lab3/solver.py), [Графики](lab3/solver-result.png), [Результаты](lab3/result.json) |
 
 Каждая лабораторная работа размещается в отдельной папке.
