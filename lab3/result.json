@@ -1,0 +1,31 @@
+{
+  "variant": 3,
+  "f": "x + y",
+  "constraint": "x**2 + y**2 - 2",
+  "candidates": [
+    {
+      "point": {
+        "x": "1",
+        "y": "1"
+      },
+      "lambda": "-1/2",
+      "value": "2",
+      "constraint_residuals": [
+        "0"
+      ]
+    },
+    {
+      "point": {
+        "x": "-1",
+        "y": "-1"
+      },
+      "lambda": "1/2",
+      "value": "-2",
+      "constraint_residuals": [
+        "0"
+      ]
+    }
+  ],
+  "minimum": "-2",
+  "maximum": "2"
+}
